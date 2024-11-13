@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<weeks type="list">
+		<item type="int">2</item>
+		<item type="int">4</item>
+		<item type="int">6</item>
+		<item type="int">8</item>
+		<item type="int">10</item>
+		<item type="int">12</item>
+		<item type="int">14</item>
+		<item type="int">16</item>
+	</weeks>
+	<day type="str">Понедельник</day>
+	<lessons type="dict">
+		<first type="dict">
+			<name type="str">Программирование</name>
+			<type type="str">Лабораторная</type>
+			<teacher type="str">Мустафаева Айнур Вугар Кызы</teacher>
+			<audience type="str">1320</audience>
+			<building type="str">Кронверский пр., д.49, лит.А</building>
+			<start type="str">08:20</start>
+			<end type="str">09:50</end>
+		</first>
+		<second type="dict">
+			<name type="str">Программирование</name>
+			<type type="str">Лабораторная</type>
+			<teacher type="str">Мустафаева Айнур Вугар Кызы</teacher>
+			<audience type="str">1320</audience>
+			<building type="str">Кронверский пр., д.49, лит.А</building>
+			<start type="str">10:00</start>
+			<end type="str">11:30</end>
+		</second>
+		<third type="dict">
+			<name type="str">Основы дискретной математики (базовый уровень)</name>
+			<type type="str">Лекция</type>
+			<teacher type="str">Поляков Владимир Иванович</teacher>
+			<audience type="str">2403</audience>
+			<building type="str">Кронверский пр., д.49, лит.А</building>
+			<start type="str">11:40</start>
+			<end type="str">13:10</end>
+		</third>
+		<fourth type="dict">
+			<name type="str">Основы дискретной математики (базовый уровень)</name>
+			<type type="str">Практика</type>
+			<teacher type="str">Поляков Владимир Иванович</teacher>
+			<audience type="str">2403</audience>
+			<building type="str">Кронверский пр., д.49, лит.А</building>
+			<start type="str">13:30</start>
+			<end type="str">15:00</end>
+		</fourth>
+		<fifth type="dict">
+			<name type="str">Линейная алгебра (продвинутый уровень)</name>
+			<type type="str">Лекция</type>
+			<teacher type="str">Карпов Дмитрий Валерьевич</teacher>
+			<audience type="str">1404</audience>
+			<building type="str">Кронверский пр., д.49, лит.А</building>
+			<start type="str">15:20</start>
+			<end type="str">16:50</end>
+		</fifth>
+		<sixth type="dict">
+			<name type="str">Линейная алгебра (продвинутый уровень)</name>
+			<type type="str">Практика</type>
+			<teacher type="str">Гилев Павел Андреевич</teacher>
+			<audience type="str">2336</audience>
+			<building type="str">Кронверский пр., д.49, лит.А</building>
+			<start type="str">17:00</start>
+			<end type="str">18:30</end>
+		</sixth>
+	</lessons>
+</root>

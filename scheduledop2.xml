@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<weeks>
+		<item>2</item>
+		<item>4</item>
+		<item>6</item>
+		<item>8</item>
+		<item>10</item>
+		<item>12</item>
+		<item>14</item>
+		<item>16</item>
+	</weeks>
+	<day>Понедельник</day>
+	<lessons>
+		<first>
+			<name>Программирование</name>
+			<type>Лабораторная</type>
+			<teacher>Мустафаева Айнур Вугар Кызы</teacher>
+			<audience>1320</audience>
+			<building>Кронверский пр. д.49 лит.А</building>
+			<start>08:20</start>
+			<end>09:50</end>
+		</first>
+		<second>
+			<name>Программирование</name>
+			<type>Лабораторная</type>
+			<teacher>Мустафаева Айнур Вугар Кызы</teacher>
+			<audience>1320</audience>
+			<building>Кронверский пр. д.49 лит.А</building>
+			<start>10:00</start>
+			<end>11:30</end>
+		</second>
+		<third>
+			<name>Основы дискретной математики (базовый уровень)</name>
+			<type>Лекция</type>
+			<teacher>Поляков Владимир Иванович</teacher>
+			<audience>2403</audience>
+			<building>Кронверский пр. д.49 лит.А</building>
+			<start>11:40</start>
+			<end>13:10</end>
+		</third>
+		<fourth>
+			<name>Основы дискретной математики (базовый уровень)</name>
+			<type>Практика</type>
+			<teacher>Поляков Владимир Иванович</teacher>
+			<audience>2403</audience>
+			<building>Кронверский пр. д.49 лит.А</building>
+			<start>13:30</start>
+			<end>15:00</end>
+		</fourth>
+		<fifth>
+			<name>Линейная алгебра (продвинутый уровень)</name>
+			<type>Лекция</type>
+			<teacher>Карпов Дмитрий Валерьевич</teacher>
+			<audience>1404</audience>
+			<building>Кронверский пр. д.49 лит.А</building>
+			<start>15:20</start>
+			<end>16:50</end>
+		</fifth>
+		<sixth>
+			<name>Линейная алгебра (продвинутый уровень)</name>
+			<type>Практика</type>
+			<teacher>Гилев Павел Андреевич</teacher>
+			<audience>2336</audience>
+			<building>Кронверский пр. д.49 лит.А</building>
+			<start>17:00</start>
+			<end>18:30</end>
+		</sixth>
+	</lessons>
+</root>
